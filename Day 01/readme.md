@@ -6,11 +6,11 @@ categories:
   - Coding
 ---
 
-# Question
+### Question
 
 > Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum. A subarray is a contiguous part of an array.
 
-# Code [C++]
+### Code [C++]
 
 ```cpp
 
@@ -29,5 +29,6 @@ public:
 
 ```
 
-- > Time Complexity = O(N)
-- > Space Complexity = O(1)
+> Time Complexity = O(N)
+
+> Space Complexity = O(1)
