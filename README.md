@@ -6,7 +6,7 @@
 |Day|Title|Description|Language|Source|Link|
 |--|--|--|--|--|--|
 |1| Kadane's Algorithm | Find the Maximum Subarray Sum | C++ & Python| <a href="https://leetcode.com/problems/maximum-subarray/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2001">View Code</a>|
-|2|Dutch National Flag Algo| Sort 0s, 1s, 2s without Inbuilt fn | C++ | <a href="https://leetcode.com/problems/sort-colors/">Leetcode</a> | <a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2002">View Code</a> |
+|2|Dutch National Flag Algo| Sort 0s, 1s, 2s | C++ | <a href="https://leetcode.com/problems/sort-colors/">Leetcode</a> | <a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2002">View Code</a> |
 |3||||||
 |4||||||
 |5||||||
