@@ -1,6 +1,5 @@
 ---
 title: "Kadane's Algorithm"
-classes: wide
 description: "Maximum subarray Sum"
 categories:
   - Coding
