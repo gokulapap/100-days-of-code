@@ -2,7 +2,7 @@
 
 100 days of Coding Challenge
 
-> start date : January 1, 2022 [01/01/2022]
+> Start date : January 1, 2022
 
 # Overview
 
