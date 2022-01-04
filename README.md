@@ -9,7 +9,7 @@
 |1| Kadane's Algorithm | Find the Maximum Subarray Sum | C++ | <a href="https://leetcode.com/problems/maximum-subarray/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2001">View Code</a>|
 |2|Dutch National Flag Algo| Sort 0s, 1s, 2s without sort| C++ | <a href="https://leetcode.com/problems/sort-colors/">Leetcode</a> | <a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2002">View Code</a> |
 |3|Last Stone Weight| The smallest weight of the left stone| C++ |<a href="https://leetcode.com/problems/last-stone-weight/">Leetcode</a>| <a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2003">View Code</a>|
-|4||||||
+|4|Find Whether path exist|check whether there is path from src to dest| C++ |<a href="https://practice.geeksforgeeks.org/problems/find-whether-path-exist5238/1#">GFG</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2004">View Code</a>|
 |5||||||
 |6||||||
 |7||||||
