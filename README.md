@@ -16,7 +16,7 @@
 |4|Find Whether path exist|check whether there is path from src to dest| C++ |<a href="https://practice.geeksforgeeks.org/problems/find-whether-path-exist5238/1#">GFG</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2004">View Code</a>|
 |5|Number of Islands|Find number of islands surrounded by water| C++ |<a href="https://leetcode.com/problems/number-of-islands/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2005">View Code</a>|
 |6|Word Search|Finding whether given word is present in grid| C++ |<a href="https://leetcode.com/problems/word-search">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2006">View Code</a>|
-|7||||||
+|7|Best time to buy and sell stock|Finding the max profit| C++ |<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2007">View Code</a>|
 |8||||||
 |9||||||
 |10||||||
