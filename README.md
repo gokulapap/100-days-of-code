@@ -18,7 +18,7 @@
 |6|Word Search|Finding whether given word is present in grid| C++ |<a href="https://leetcode.com/problems/word-search">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2006">View Code</a>|
 |7|Best time to buy and sell stock|Finding the max profit| C++ |<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2007">View Code</a>|
 |8|Sliding window Maximum|Finding max of all subarrays|C++|<a href="https://leetcode.com/problems/sliding-window-maximum/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2008">View Code</a>|
-|9||||||
+|9|Maximum Twin Sum of a Linked List|Finding the maxsum of a twin in Linkedlist|C++|<a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2009">View Code</a>|
 |10||||||
 |11||||||
 |12||||||
