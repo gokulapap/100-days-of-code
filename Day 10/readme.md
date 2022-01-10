@@ -12,7 +12,7 @@ categories:
 
 > Return the maximum area of an island in grid. If there is no island, return 0.
 
-<img src="https://assets.leetcode.com/uploads/2021/05/01/maxarea1-grid.jpg"></img>
+<img src="https://assets.leetcode.com/uploads/2021/05/01/maxarea1-grid.jpg" height=200px width=230px></img>
 
 ```
 Input: grid = [[0,0,1,0,0,0,0,1,0,0,0,0,0],[0,0,0,0,0,0,0,1,1,1,0,0,0],[0,1,1,0,1,0,0,0,0,0,0,0,0],[0,1,0,0,1,1,0,0,1,0,1,0,0],[0,1,0,0,1,1,0,0,1,1,1,0,0],[0,0,0,0,0,0,0,0,0,0,1,0,0],[0,0,0,0,0,0,0,1,1,1,0,0,0],[0,0,0,0,0,0,0,1,1,0,0,0,0]]
