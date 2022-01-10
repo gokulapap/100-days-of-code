@@ -2,7 +2,8 @@
 title: "Max Area of Island"
 description: "finding the maximum area of island surrounded by water"
 categories:
-  - graph, dfs
+  - graph
+  - dfs
 ---
 
 ### Question
