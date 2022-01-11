@@ -20,7 +20,7 @@
 |8|Sliding window Maximum|Finding max of all subarrays|C++|<a href="https://leetcode.com/problems/sliding-window-maximum/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2008">View Code</a>|
 |9|Maximum Twin Sum of a Linked List|Finding the maxsum of a twin in Linkedlist|C++|<a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2009">View Code</a>|
 |10|Max area of Island|Finding the maximum area of island|C++|<a href="https://leetcode.com/problems/max-area-of-island/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2010">View Code</a>|
-|11||||||
+|11|N-Queens Puzzle|Placing N-queens in NxN Chessboard|C++|<a href="https://leetcode.com/problems/n-queens/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2011">View Code</a>|
 |12||||||
 |13||||||
 |14||||||
