@@ -12,7 +12,9 @@ categories:
 
 > Each solution contains a distinct board configuration of the n-queens' placement, where 'Q' and '.' both indicate a queen and an empty space, respectively.
 
+<br>
 <img src="https://assets.leetcode.com/uploads/2020/11/13/queens.jpg" height=400px width=800px></img>
+<br>
 
 ```
 Input: n = 4
