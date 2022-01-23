@@ -32,7 +32,7 @@
 |20|Koko Eating Bananas|find k to eat all bananas within h hours|C++|<a href="https://leetcode.com/problems/koko-eating-bananas">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2020">View Code</a>|
 |21|Delete Middle Element|Delete middle element of Linkedlist|C++|<a href="https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2021">View Code</a>|
 |22|Stone Game|Return true if you are able to win|C++|<a href="https://leetcode.com/problems/stone-game-iv">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2022">View Code</a>|
-|23||||||
+|23|Sequential Digits|Find all sequential digits in a range|C++|<a href="https://leetcode.com/problems/sequential-digits">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2023">View Code</a>|
 |24||||||
 |25||||||
 |26||||||
