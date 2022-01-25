@@ -34,7 +34,7 @@
 |22|Stone Game|Return true if you are able to win|C++|<a href="https://leetcode.com/problems/stone-game-iv">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2022">View Code</a>|
 |23|Sequential Digits|Find all sequential digits in a range|C++|<a href="https://leetcode.com/problems/sequential-digits">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2023">View Code</a>|
 |24|Sort characters by frequency|sort the chars in a string by frequency|C++|<a href="https://leetcode.com/problems/sort-characters-by-frequency">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2024">View Code</a>|
-|25|Valid Mountain Array|checking the mountain array or not|C++|<a href="https://leetcode.com/problems/valid-mountain-array/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2024">View Code</a>|
+|25|Valid Mountain Array|checking the mountain array or not|C++|<a href="https://leetcode.com/problems/valid-mountain-array/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2025">View Code</a>|
 |26||||||
 |27||||||
 |28||||||
