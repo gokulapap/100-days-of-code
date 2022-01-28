@@ -36,7 +36,7 @@
 |24|Sort characters by frequency|sort the chars in a string by frequency|C++|<a href="https://leetcode.com/problems/sort-characters-by-frequency">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2024">View Code</a>|
 |25|Valid Mountain Array|checking the mountain array or not|C++|<a href="https://leetcode.com/problems/valid-mountain-array/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2025">View Code</a>|
 |26|Path Sum|return all root-to-leaf paths which equals targetsum|C++|<a href="https://leetcode.com/problems/path-sum-ii">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2026">View Code</a>|
-|27||||||
+|27|Leaf-similar trees|Return true if both trees have same leaves|C++|<a href="https://leetcode.com/problems/leaf-similar-trees">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2027">View Code</a>|
 |28||||||
 |29||||||
 |30||||||
