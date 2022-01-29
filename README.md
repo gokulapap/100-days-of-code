@@ -38,7 +38,7 @@
 |26|Path Sum|return all root-to-leaf paths which equals targetsum|C++|<a href="https://leetcode.com/problems/path-sum-ii">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2026">View Code</a>|
 |27|Leaf-similar trees|Return true if both trees have same leaves|C++|<a href="https://leetcode.com/problems/leaf-similar-trees">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2027">View Code</a>|
 |28|Delete Leaves with given value|Delete the leaf if it equals target value|C++|<a href="https://leetcode.com/problems/delete-leaves-with-a-given-value/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2028">View Code</a>|
-|29||||||
+|29|Sum of root to leaf binary|Given root of binary tree find sum of binary nums from root to leaf|C++|<a href="https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2029">View Code</a>|
 |30||||||
 |31||||||
 |32||||||
