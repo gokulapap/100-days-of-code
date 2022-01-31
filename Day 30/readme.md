@@ -1,7 +1,7 @@
 ---
 title: "Rotate Array"
 description: "Rotate the integer array k times"
-categories
+categories:
   - array
   - 2 pointer
 ---
