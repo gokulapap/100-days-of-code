@@ -1,7 +1,7 @@
 ---
 title: "Richest Customer Wealth"
 description: "Return the wealth that the richest customer has"
-categories
+categories:
   - array
   - matrix
 ---
