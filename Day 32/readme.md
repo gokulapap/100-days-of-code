@@ -14,7 +14,7 @@ categories:
 > You must solve the problem in O(1) extra space complexity and O(n) time complexity.
 
 <br>
-<img src="https://assets.leetcode.com/uploads/2021/03/10/oddeven-linked-list.jpg" width=430px height=350px></img>
+<img src="https://assets.leetcode.com/uploads/2021/03/10/oddeven-linked-list.jpg" width=430px height=280px></img>
 <br>
 
 ```
