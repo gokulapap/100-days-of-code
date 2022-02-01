@@ -41,7 +41,7 @@
 |29|Sum of root to leaf binary|Given root of binary tree find sum of binary nums from root to leaf|C++|<a href="https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2029">View Code</a>|
 |30|Rotate Array|Rotate the integer array k times|C++|<a href="https://leetcode.com/problems/rotate-array/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2030">View Code</a>|
 |31|Richest Customer Wealth|Return the richest customer wealth|C++|<a href="https://leetcode.com/problems/richest-customer-wealth/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2031">View Code</a>|
-|32||||||
+|32|Odd Even Linkedlist|Group odd and even indices together|C++|<a href="https://leetcode.com/problems/odd-even-linked-list">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2032">View Code</a>|
 |33||||||
 |34||||||
 |35||||||
