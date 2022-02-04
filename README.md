@@ -43,8 +43,8 @@
 |31|Richest Customer Wealth|Return the richest customer wealth|C++|<a href="https://leetcode.com/problems/richest-customer-wealth/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2031">View Code</a>|
 |32|Odd Even Linkedlist|Group odd and even indices together|C++|<a href="https://leetcode.com/problems/odd-even-linked-list">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2032">View Code</a>|
 |33|Minimum number of steps to make Anagram|find min steps to make anagram|C++|<a href="https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2033">View Code</a>|
-|34|Sum Tree|Return true if every node in tree has sum of its child|C++|<a href="https://practice.geeksforgeeks.org/problems/sum-tree/1/#">GFG</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2033">View Code</a>|
-|35||||||
+|34|Sum Tree|Return true if every node in tree has sum of its child|C++|<a href="https://practice.geeksforgeeks.org/problems/sum-tree/1/#">GFG</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2034">View Code</a>|
+|35|Contiguous Array|Return the max length of contiguous array with equal 1s and 0s|C++|<a href="https://leetcode.com/problems/contiguous-array">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2035">View Code</a>|
 |36||||||
 |37||||||
 |38||||||
