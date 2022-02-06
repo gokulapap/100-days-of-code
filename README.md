@@ -45,7 +45,7 @@
 |33|Minimum number of steps to make Anagram|find min steps to make anagram|C++|<a href="https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2033">View Code</a>|
 |34|Sum Tree|Return true if every node in tree has sum of its child|C++|<a href="https://practice.geeksforgeeks.org/problems/sum-tree/1/#">GFG</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2034">View Code</a>|
 |35|Contiguous Array|Return the max length of contiguous array with equal 1s and 0s|C++|<a href="https://leetcode.com/problems/contiguous-array">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2035">View Code</a>|
-|36||||||
+|36|Remove Duplicates from sorted array|return unique elements list|C++|<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2036">View Code</a>|
 |37||||||
 |38||||||
 |39||||||
