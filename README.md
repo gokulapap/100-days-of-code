@@ -46,7 +46,7 @@
 |34|Sum Tree|Return true if every node in tree has sum of its child|C++|<a href="https://practice.geeksforgeeks.org/problems/sum-tree/1/#">GFG</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2034">View Code</a>|
 |35|Contiguous Array|Return the max length of contiguous array with equal 1s and 0s|C++|<a href="https://leetcode.com/problems/contiguous-array">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2035">View Code</a>|
 |36|Remove Duplicates from sorted array|return unique elements list|C++|<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2036">View Code</a>|
-|37||||||
+|37|Zigzag Conversion|Return zigzag of the given string|C++|<a href="https://leetcode.com/problems/zigzag-conversion">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2037">View Code</a>|
 |38||||||
 |39||||||
 |40||||||
