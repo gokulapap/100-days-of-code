@@ -48,7 +48,7 @@
 |36|Remove Duplicates from sorted array|return unique elements list|C++|<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2036">View Code</a>|
 |37|Zigzag Conversion|Return zigzag of the given string|C++|<a href="https://leetcode.com/problems/zigzag-conversion">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2037">View Code</a>|
 |38|Sum of Digits of String After Convert|Return the resultant sum after performing|C++|<a href="https://leetcode.com/problems/sum-of-digits-of-string-after-convert/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2038">View Code</a>|
-|39||||||
+|39|K-diff Pairs in an Array|Return the number of unique k-diff pairs in the array|C++|<a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2039">View Code</a>|
 |40||||||
 |41||||||
 |42||||||
