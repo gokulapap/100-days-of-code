@@ -50,7 +50,7 @@
 |38|Sum of Digits of String After Convert|Return the resultant sum after performing|C++|<a href="https://leetcode.com/problems/sum-of-digits-of-string-after-convert/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2038">View Code</a>|
 |39|K-diff Pairs in an Array|Return the number of unique k-diff pairs in the array|C++|<a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2039">View Code</a>|
 |40|Subarray Sum Equals K|Return the total number of continuous subarrays whose sum equals to k|C++|<a href="https://leetcode.com/problems/subarray-sum-equals-k/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2040">View Code</a>|
-|41||||||
+|41|Subsets|Return all possible subsets|C++|<a href="https://leetcode.com/problems/subsets/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2041">View Code</a>|
 |42||||||
 |43||||||
 |44||||||
