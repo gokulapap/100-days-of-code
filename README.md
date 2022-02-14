@@ -51,7 +51,7 @@
 |39|K-diff Pairs in an Array|Return the number of unique k-diff pairs in the array|C++|<a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2039">View Code</a>|
 |40|Subarray Sum Equals K|Return the total number of continuous subarrays whose sum equals to k|C++|<a href="https://leetcode.com/problems/subarray-sum-equals-k/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2040">View Code</a>|
 |41|Subsets|Return all possible subsets|C++|<a href="https://leetcode.com/problems/subsets/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2041">View Code</a>|
-|42||||||
+|42|Sum Root to Leaf numbers|Return total sum of root-to-leaf numbers|C++|<a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2042">View Code</a>|
 |43||||||
 |44||||||
 |45||||||
