@@ -53,7 +53,7 @@
 |41|Subsets|Return all possible subsets|C++|<a href="https://leetcode.com/problems/subsets/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2041">View Code</a>|
 |42|Sum Root to Leaf numbers|Return total sum of root-to-leaf numbers|C++|<a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2042">View Code</a>|
 |43|Single number|Find the element appearing only once|C++|<a href="https://leetcode.com/problems/single-number">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2043">View Code</a>|
-|44||||||
+|44|Swap nodes in Pairs|swap every two adjacent nodes and return its head|C++|<a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2044">View Code</a>|
 |45||||||
 |46||||||
 |47||||||
