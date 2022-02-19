@@ -56,7 +56,7 @@
 |44|Swap nodes in Pairs|swap every two adjacent nodes and return its head|C++|<a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2044">View Code</a>|
 |45|Combination sum| return a list of all unique combinations of nums that sums to target|C++|<a href="https://leetcode.com/problems/combination-sum/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2045">View Code</a>|
 |46|Remove K digits|return the smallest number after removing k digits|C++|<a href="https://leetcode.com/problems/remove-k-digits">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2046">View Code</a>|
-|47||||||
+|47|Longest substring without repeating chars|Return longest substring with no repeating chars|C++|<a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2047">View Code</a>|
 |48||||||
 |49||||||
 |50||||||
