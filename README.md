@@ -59,7 +59,7 @@
 |47|Longest substring without repeating chars|Return longest substring with no repeating chars|C++|<a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2047">View Code</a>|
 |48|Remove covered intervals|Return the number of remaining intervals|C++|<a href="https://leetcode.com/problems/remove-covered-intervals/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2048">View Code</a>|
 |49|Sort characters by Frequency|Return sorted string based on frequency|C++|<a href="https://leetcode.com/problems/sort-characters-by-frequency">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2049">View Code</a>|
-|50||||||
+|50|Excel sheet column number|Return Excel sheet's corresponding column number|C++|<a href="https://leetcode.com/problems/excel-sheet-column-number">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2050">View Code</a>|
 |51||||||
 |52||||||
 |53||||||
