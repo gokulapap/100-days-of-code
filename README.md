@@ -62,8 +62,8 @@
 |51|Average of Levels in Binary Tree|Return the average value of the nodes on each level|C++|<a href="https://leetcode.com/problems/average-of-levels-in-binary-tree/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2050">View Code</a>|
 |52|Sort List|Sort the Given Linkedlist|C++|<a href="https://leetcode.com/problems/sort-list/submissions/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2052">View Code</a>|
 |53|Compare Version Number|Compare given two version numbers|C++|<a href="https://leetcode.com/problems/compare-version-numbers">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2053">View Code</a>|
-|54||||||
-|55||||||
+|54|Add Two numbers|Return sum of two linkedlist|C++|<a href="https://leetcode.com/problems/add-two-numbers/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2054">View Code</a>|
+|55|Maximum Width of Binary Tree|Return the maximum width of the given tree|C++|<a href="https://leetcode.com/problems/maximum-width-of-binary-tree/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2055">View Code</a>|
 |56||||||
 |57||||||
 |58||||||
