@@ -65,8 +65,8 @@
 |54|Add Two numbers|Return sum of two linkedlist|C++|<a href="https://leetcode.com/problems/add-two-numbers/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2054">View Code</a>|
 |55|Maximum Width of Binary Tree|Return the maximum width of the given tree|C++|<a href="https://leetcode.com/problems/maximum-width-of-binary-tree/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2055">View Code</a>|
 |56|Summary Ranges|Return the smallest sorted list of ranges|C++|<a href="https://leetcode.com/problems/summary-ranges">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2056">View Code</a>|
-|57||||||
-|58||||||
+|57|Maximum Product of Two Elements|Return the maximum value of nums in an array|C++|<a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2057">View Code</a>|
+|58|Is subsequence|Check whether given str is subsequence or not|C++|<a href="https://leetcode.com/problems/is-subsequence/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2058">View Code</a>|
 |59||||||
 |60||||||
 |61||||||
