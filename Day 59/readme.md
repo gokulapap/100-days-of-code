@@ -1,6 +1,6 @@
 ---
 title: "Arithmetic Slices"
-description: "return the number of arithmetic subarrays of nums
+description: "return the number of arithmetic subarrays of nums"
 categories:
   - array
   - dp
