@@ -68,7 +68,7 @@
 |57|Maximum Product of Two Elements|Return the maximum value of nums in an array|C++|<a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2057">View Code</a>|
 |58|Is subsequence|Check whether given str is subsequence or not|C++|<a href="https://leetcode.com/problems/is-subsequence/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2058">View Code</a>|
 |59|Arithmetic slices|return the number of arithmetic subarrays of nums|C++|<a href="https://leetcode.com/problems/arithmetic-slices">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2059">View Code</a>|
-|60||||||
+|60|||C++|<a href="">Leetcode</a>||
 |61||||||
 |62||||||
 |63||||||
