@@ -1,5 +1,5 @@
 ---
-title: "Different Ways to Add Parentheses Different Ways to Add Parentheses"
+title: "Different Ways to Add Parentheses"
 description: "return all possible results of possible adding parantheses"
 categories:
   - math
