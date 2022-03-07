@@ -70,7 +70,7 @@
 |60|Arithmetic slices|return the number of arithmetic subarrays of nums|C++|<a href="https://leetcode.com/problems/arithmetic-slices">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2060">View Code</a>|
 |61|Delete and Earn|Return the maximum number of points you can earn|C++|<a href="https://leetcode.com/problems/delete-and-earn/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2061">View Code</a>|
 |62|Different ways to add parantheses|return all possible results of adding parantheses|C++|<a href="">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2062">View Code</a>|
-|63||||||
+|63|Merge Two sorted Lists|Merge the given two sorted linkedlists|C++|<a href="https://leetcode.com/problems/merge-two-sorted-lists">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2063">View Code</a>|
 |64||||||
 |65||||||
 |66||||||
