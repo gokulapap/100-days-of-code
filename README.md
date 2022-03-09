@@ -72,7 +72,7 @@
 |62|Different ways to add parantheses|return all possible results of adding parantheses|C++|<a href="">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2062">View Code</a>|
 |63|Merge Two sorted Lists|Merge the given two sorted linkedlists|C++|<a href="https://leetcode.com/problems/merge-two-sorted-lists">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2063">View Code</a>|
 |64|Most Frequent Number following key|Return the target with the maximum count|C++|<a href="https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2064">View Code</a>|
-|65||||||
+|65|Remove duplicates from list|Delete all the duplicate nodes|C++|<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/">Leetcode</a>|<a href="https://github.com/gokulapap/100-days-of-code/tree/main/Day%2065">View Code</a>|
 |66||||||
 |67||||||
 |68||||||
